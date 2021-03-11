@@ -104,6 +104,30 @@
   <ItemGroup>
     <None Include="bin\Debug\salcakutusu.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="bardak.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="camsise.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="dergi.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="domates.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="gazete.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="kolakutusu.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="salatalik.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="salcakutusu.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
